@@ -1,6 +1,6 @@
-##Gas_Agency_Management_System
+#Gas_Agency_Management_System
 
-#Description:
+##Description:
 This project deals with the ‘Gas Agency Management 
 System’. The system will be used for booking of cylinders in 
 accordance to the requirement of the consumer. It first takes 
@@ -13,7 +13,7 @@ consumer. This system would ease out the process for
 booking compared to doing it manually which would be a lot 
 more tedious.
 
-#Scope of the project:
+##Scope of the project:
 The project uses SQL for the backend and Python for the 
 front end with the streamlit library being pivotal. It consists 
 of a website design which helps us to handle the basic tasks 
